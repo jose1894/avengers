@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Red Skull
-* Electro (Electron Man)
+* Capitan America
